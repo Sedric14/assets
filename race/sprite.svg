@@ -1,5 +1,6 @@
-<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <symbol class="carSvg" fill="000000" viewBox="0 0 700 210" width="700pt" height="210pt" id = "car1">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="700px" height="64px" viewBox="0 0 700 64">
+    <symbol class="carSvg" fill="#000000" viewBox="0 0 700 210" id="car1">
         
 <path d="M3140 2075 c-782 -24 -1040 -55 -1285 -151 -49 -20 -178 -83 -285
 -140 -466 -247 -614 -302 -945 -354 -113 -18 -157 -21 -230 -14 -49 4 -152 8
